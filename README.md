@@ -1,8 +1,8 @@
 👋 Hi, I’m Vishal Yadav<br/>
-👀 I’m interested in Web Developement
-🌱 I’m currently learning MERN Stack Development
-📫 How to reach me :-
-G-Mail :- vishalyadav23398@gmail.com
+👀 I’m interested in Web Developement<br/>
+🌱 I’m currently learning MERN Stack Development<br/>
+📫 How to reach me :-<br/>
+G-Mail :- vishalyadav23398@gmail.com<br/>
 
 <!--
 **vishalyadav-code/vishalyadav-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
